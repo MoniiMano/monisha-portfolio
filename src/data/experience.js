@@ -1,0 +1,36 @@
+export const experienceData = [
+  {
+    id: 1,
+    company: 'DataSpark AI Solutions',
+    role: 'Full Stack Developer & Team Lead',
+    period: 'June 2024 – March 2026',
+    location: 'India',
+    description: [
+      'Led and mentored a 6-member frontend development team, handling task allocation, sprint planning, code reviews, and onboarding in Agile environments',
+      'Designed and developed scalable AI-integrated EdTech platforms using React.js, Next.js, Redux Toolkit, and Tailwind CSS',
+      'Collaborated with AI/ML engineering teams to integrate speech scoring, OCR-based exams, analytics, and real-time feedback systems for IELTS, PTE, NEET, JEE, TNPSC, and mock interview platforms',
+      'Built full-stack features using Node.js (Express) with MongoDB and PostgreSQL, supporting high-traffic student platforms',
+      'Optimized frontend performance using code splitting, lazy loading, and asset optimization, improving initial page load time by ~30%',
+      'Implemented role-based access control (RBAC) and permission-driven navigation across student, faculty, center, and admin panels',
+      'Integrated Razorpay payment gateway for premium subscriptions, ensuring secure transactions and smooth checkout flows',
+      'Managed Docker-based backend services, supported testing and production deployments',
+      'Ensured mobile responsiveness, SEO readiness, and cross-browser compatibility across all production platforms including sasthra.in',
+    ],
+    technologies: ['React.js', 'Next.js', 'Redux Toolkit', 'Node.js', 'Express', 'MongoDB', 'PostgreSQL', 'Docker', 'Razorpay', 'WebRTC', 'Socket.IO'],
+  },
+  {
+    id: 2,
+    company: 'SIGN ADSS',
+    role: 'Web Development Intern',
+    period: 'January 2024 – April 2024',
+    location: 'India',
+    description: [
+      'Contributed to the company\'s official website development for a signboard manufacturing company',
+      'Designed and developed web pages to improve online presence',
+      'Built and maintained the contact form database to manage customer enquiries efficiently',
+      'Performed basic SEO optimization to improve website visibility on search engines',
+      'Supported regular updates and maintenance of website content',
+    ],
+    technologies: ['HTML', 'CSS', 'JavaScript', 'SEO'],
+  },
+];
